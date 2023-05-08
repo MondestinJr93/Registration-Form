@@ -1,3 +1,3 @@
-#Registration Form
+# Registration Form
 
 Responsive Web Design - Registration form
